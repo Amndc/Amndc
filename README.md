@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Amndc/Amndc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amndc&show_icons=true&theme=material-palenight)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amndc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amndc&layout=compact)
+<a href="https://github.com/Amndc/github-readme-stats">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Amndc&show_icons=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/Amndc/convoychat">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amndc&layout=compact&theme=material-palenight" />
+</a>
