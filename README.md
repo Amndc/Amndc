@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Amndc/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Amndc&show_icons=true&theme=material-palenight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Amndc&show_icons=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/Amndc/convoychat">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amndc&layout=compact&theme=material-palenight" />
