@@ -22,4 +22,7 @@ Here are some ideas to get you started:
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amndc&layout=compact&theme=material-palenight" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amndc&repo=OrganizeIt
+)](https://github.com/Amndc/github-readme-stats)
+
 
