@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ## 👋 Olá! Eu sou Amanda Cardoso! ##
+  ## 👋 Olá! Eu sou Amanda Cardoso! :stars: ##  
 
   🌟 Desenvolvedora Full Stack  
   <!-- linha vazia -->
