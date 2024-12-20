@@ -24,14 +24,7 @@ Here are some ideas to get you started:
   <!-- linha vazia -->
 
 ----
-  ## 👋 Hello! I'm Amanda Cardoso! ##
 
-  🌟 Full Stack Developer  
-  <!-- linha vazia -->
-  💻 Favorite technologies: JavaScript, CSS, C#, SQL  
-  <!-- linha vazia -->
-  🐾 Passionate about cats and coding!
-  <!-- linha vazia -->
 
 <a href="https://github.com/Amndc/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Amndc&show_icons=true&theme=material-palenight" />
