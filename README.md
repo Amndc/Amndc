@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="assets/Design_sem_nome-removebg.png">
 
-  ## 👋 Olá! Eu sou a Amanda Cardoso! :stars: ##  
-
+   ## **👋 Olá! Eu sou a Amanda Cardoso!**
   🌟 Desenvolvedora Full Stack  
   <!-- linha vazia -->
   💻 Tecnologias favoritas: JavaScript, CSS, C#, SQL  
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   🐾 Apaixonada por gatos e programação!
   <!-- linha vazia -->
 
-----
 
 
 <a href="https://github.com/Amndc/github-readme-stats">
