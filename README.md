@@ -18,10 +18,9 @@ Here are some ideas to get you started:
    ## **👋 Olá! Eu sou a Amanda Cardoso!**
   🌟 Desenvolvedora Full Stack  
   <!-- linha vazia -->
-  💻 Tecnologias favoritas: JavaScript, CSS, C#, SQL  
+  💻 Tecnologias: JavaScript, CSS, C#, SQL  
   <!-- linha vazia -->
-  🐾 Apaixonada por gatos e programação!
-  <!-- linha vazia -->
+
 
 
 
