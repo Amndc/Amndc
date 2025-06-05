@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 -->
 <img src="assets/Design_sem_nome-removebg.png">
 
-   ## **👋 Olá! Eu sou a Amanda Cardoso!**
-  🌟 Desenvolvedora Full Stack  
+   ## **👋 Hello! I'm Amanda Cardoso!**
+  🌟 Full Stack Developer    
   <!-- linha vazia -->
-  💻 Tecnologias: JavaScript, CSS, C#, SQL  
+  💻 Technologies: JavaScript, CSS, C#, SQL  
   <!-- linha vazia -->
-
 
 
 
